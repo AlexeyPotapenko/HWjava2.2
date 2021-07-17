@@ -10,7 +10,8 @@
 В качестве тестовых данных использовались данные: Из спецификации
 [Шаги тестирования](https://github.com/AlexeyPotapenko/HWjava2.2/issues/1#issue-946466658);
 
-https://user-images.githubusercontent.com/83823418/126035354-0443a7a0-fbaa-43b9-89d3-84b572d5928d.png
+![image](https://user-images.githubusercontent.com/83823418/126035354-0443a7a0-fbaa-43b9-89d3-84b572d5928d.png)
+
 
 
 Тестирование производилось в следующем окружении:
