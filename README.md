@@ -17,7 +17,7 @@
 
 В процессе тестирования использовались следующие артефакты*:
 
-[тест-кейс](https://docs.google.com/spreadsheets/d/1AlKYIjc8tNUUDGFRJLfQ5j79sSi4fNZtNWJv1APkj6A/edit#gid=0)
+[тест-кейс](https://docs.google.com/spreadsheets/d/1AlKYIjc8tNUUDGFRJLfQ5j79sSi4fNZtNWJv1APkj6A/edit?usp=sharing)
 
 
 Тестирование производилось в следующем окружении:
